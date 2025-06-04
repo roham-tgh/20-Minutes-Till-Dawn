@@ -1,0 +1,12 @@
+animation.png
+size:128,64
+repeat:none
+EyeMonster
+index:2
+bounds:2,33,37,29
+EyeMonster
+index:1
+bounds:2,2,37,29
+EyeMonster
+index:0
+bounds:41,33,36,29

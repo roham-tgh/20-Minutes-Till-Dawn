@@ -1,0 +1,15 @@
+reload.png
+size:64,32
+repeat:none
+RevolverReload
+index:3
+bounds:2,2,16,16
+RevolverReload
+index:0
+bounds:20,2,16,16
+RevolverReload
+index:2
+bounds:20,2,16,16
+RevolverReload
+index:1
+bounds:38,2,16,16

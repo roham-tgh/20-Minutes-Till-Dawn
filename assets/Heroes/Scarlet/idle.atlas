@@ -1,0 +1,15 @@
+idle.png
+size:32,256
+repeat:none
+Idle_0 #8327
+bounds:2,34,18,30
+Idle_1 #8357
+bounds:2,98,20,30
+Idle_4 #8315
+bounds:2,98,20,30
+Idle_2 #8816
+bounds:2,130,21,31
+Idle_3 #8454
+bounds:2,66,20,30
+Idle_5 #8304
+bounds:2,2,17,30

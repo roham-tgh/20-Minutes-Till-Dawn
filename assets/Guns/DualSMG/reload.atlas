@@ -1,0 +1,15 @@
+reload.png
+size:128,32
+repeat:none
+SMGReload
+index:2
+bounds:2,2,16,16
+SMGReload
+index:1
+bounds:20,2,16,16
+SMGReload
+index:3
+bounds:38,2,16,16
+SMGReload
+index:0
+bounds:56,2,16,16
